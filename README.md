@@ -29,5 +29,5 @@ Press any key to continue...
 In extracted directory execute ‘run-asi-host-mac.sh’
 
 For more information on how to execute shell scripts on mac:
-[https://support.apple.com/en-il/guide/terminal/apd53500956-7c5b-496b-a362-2845f2aab4bc/mac]()
-[https://support.apple.com/en-il/guide/script-editor/scpedt1069/mac]()
+- [https://support.apple.com/en-il/guide/terminal/apd53500956-7c5b-496b-a362-2845f2aab4bc/mac]()
+- [https://support.apple.com/en-il/guide/script-editor/scpedt1069/mac]()
