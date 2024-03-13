@@ -10,11 +10,11 @@ Add the following lines to hosts file:
 173.196.148.156                     INC-CTX-VDA2.genasis.local
 ```
 
-Instructions on how to manually configure hosts file: [https://www.godaddy.com/resources/skills/how-to-modify-the-hosts-file-on-windows-and-mac]() 
+Instructions on how to manually configure hosts file: [How to modify the hosts file on Windows and Mac](https://www.godaddy.com/resources/skills/how-to-modify-the-hosts-file-on-windows-and-mac) 
 
 ### Configuring hosts file on Windows or MAC using ASI Lab scripts:
 1. Download ASI Lab scripts
-1. Download zip archive from: 
+1. Download zip archive from: [https://github.com/applied-spectral-imaging/genasis-labs/releases/download/1.0/asi-lab.zip](https://github.com/applied-spectral-imaging/genasis-labs/releases/download/1.0/asi-lab.zip)
 1. Extract zip archive to a local directory
 
 ### Windows
@@ -29,5 +29,5 @@ Press any key to continue...
 In extracted directory execute ‘run-asi-host-mac.sh’
 
 For more information on how to execute shell scripts on mac:
-- [https://support.apple.com/en-il/guide/terminal/apd53500956-7c5b-496b-a362-2845f2aab4bc/mac]()
-- [https://support.apple.com/en-il/guide/script-editor/scpedt1069/mac]()
+- [Intro to shell scripts in Terminal on Mac](https://support.apple.com/en-il/guide/terminal/apd53500956-7c5b-496b-a362-2845f2aab4bc/mac)
+- [Run a script in Script Editor on Mac](https://support.apple.com/en-il/guide/script-editor/scpedt1069/mac)
