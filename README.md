@@ -26,8 +26,9 @@ Press any key to continue...
 ```
 
 ### MAC
-In extracted directory execute 
+In extracted directory execute:
 chmod +x ‘run-asi-host-mac.sh’
+
 ‘run-asi-host-mac.sh’
 
 For more information on how to execute shell scripts on mac:
