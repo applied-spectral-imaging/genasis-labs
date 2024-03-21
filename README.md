@@ -32,5 +32,6 @@ chmod +x run-asi-host-mac.sh
 run-asi-host-mac.sh
 ```
 For more information on how to execute shell scripts on mac:
+- [How to Run Shell Script on Mac](https://techwiser.com/run-shell-script-mac/)
 - [Intro to shell scripts in Terminal on Mac](https://support.apple.com/en-il/guide/terminal/apd53500956-7c5b-496b-a362-2845f2aab4bc/mac)
 - [Run a script in Script Editor on Mac](https://support.apple.com/en-il/guide/script-editor/scpedt1069/mac)
