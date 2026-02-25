@@ -6,8 +6,8 @@ Add the following lines to hosts file:
 
 ```
 # ASI - GenASIS Citrix Hosts
-173.196.148.155                     INC-CTX-VDA1.genasis.local
-173.196.148.156                     INC-CTX-VDA2.genasis.local
+45.31.45.74                    INC-CTX-VDA1.genasis.local
+45.31.45.75                    INC-CTX-VDA2.genasis.local
 ```
 
 Instructions on how to manually configure hosts file: [How to modify the hosts file on Windows and Mac](https://www.godaddy.com/resources/skills/how-to-modify-the-hosts-file-on-windows-and-mac) 
