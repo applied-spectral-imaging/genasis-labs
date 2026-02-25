@@ -14,7 +14,7 @@ Instructions on how to manually configure hosts file: [How to modify the hosts f
 
 ### Configuring hosts file on Windows or MAC using ASI Lab scripts:
 1. Download ASI Lab scripts
-1. Download zip archive from: [https://github.com/applied-spectral-imaging/genasis-labs/releases/download/1.0/asi-lab.zip](https://github.com/applied-spectral-imaging/genasis-labs/releases/download/1.0/asi-lab.zip)
+1. Download zip archive from: [https://github.com/applied-spectral-imaging/genasis-labs/releases/download/1.1/asi-lab.zip](https://github.com/applied-spectral-imaging/genasis-labs/releases/download/1.1/asi-lab.zip)
 1. Extract zip archive to a local directory
 
 ### Windows
